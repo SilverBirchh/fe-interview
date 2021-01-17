@@ -2,16 +2,16 @@
 
 ### Cleo AI FE Task by Bradley Birch
 
-_Time spent_
+**Time spent**
 3.5 hours
 
-_Uses_
+**Uses**
 
 - Styled Components
 - React Context for state management
 - React Testing Library with MSW
 
-_Improvements_
+**Improvements**
 
 - Improved UI / UX. Show the category and icon. Prettify dates.
 
